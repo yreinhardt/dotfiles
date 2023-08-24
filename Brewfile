@@ -15,11 +15,13 @@ cask 'visual-studio-code'
 
 # Development
 brew 'argocd'
+brew 'fzf'
 brew 'git'
 brew 'terraform'
 brew 'go'
 brew 'helm'
 brew 'k9s'
+brew 'kubectx'
 brew 'kustomize'
 brew 'minikube'
 brew 'neovim'
